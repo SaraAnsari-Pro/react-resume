@@ -1,0 +1,8 @@
+.header{
+    background-color: #777;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+

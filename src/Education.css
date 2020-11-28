@@ -1,0 +1,12 @@
+.education{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
